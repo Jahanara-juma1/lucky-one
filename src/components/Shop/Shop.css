@@ -8,8 +8,12 @@
     gap: 45px;
     margin: 100px 50px;
 }
-@media screen and(max-width:688px){
-    .products-container{
-        grid-template-columns: repeat(1fr);
+@media screen and(max-width: 688px){
+    .shop-container{
+        grid-template-columns: repeat(1, 1fr);
     }
-}
+    .products-container{
+        flex-direction: column;
+        grid-template-columns: repeat(1, 1fr);
+    }
+};
