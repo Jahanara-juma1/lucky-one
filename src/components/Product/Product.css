@@ -4,6 +4,7 @@
     border: 1px solid #959595;
     border-radius: 8px;
     position: relative;
+    margin-left: 50px;
 }
 .product img{
     width: 286px;
@@ -32,6 +33,12 @@
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-cart .btn-text{
+    margin-right: 5px;
 }
 .btn-cart:hover{
     background-color: lightsalmon;
