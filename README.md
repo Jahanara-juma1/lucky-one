@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Lucky one](https://glittery-meerkat-3cc16a.netlify.app/).
 
 ## Available Scripts
 

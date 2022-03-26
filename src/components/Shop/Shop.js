@@ -1,4 +1,4 @@
-// import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
+
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
